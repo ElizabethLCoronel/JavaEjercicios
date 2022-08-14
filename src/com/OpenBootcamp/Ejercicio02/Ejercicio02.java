@@ -1,9 +1,9 @@
-package com.OpenBootcamp;
+package com.OpenBootcamp.Ejercicio02;
 
 import java.util.Scanner;
 
 /**
- * En este ejercicio se crea una función que recibe un precio y devuelva el precio con el IVA incluido
+ * En este ejercicio se crea una función que recibe un precio y devuelve el precio con el IVA incluido
  */
 public class Ejercicio02 {
     public static void main(String[] args) {
